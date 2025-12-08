@@ -14,7 +14,7 @@
 
 ---
 
-## 🏢 **Explorar por Institución**
+## **Explorar por Institución**
 
 (clasificacion de instituciones y cursos ofrecidos)
 
