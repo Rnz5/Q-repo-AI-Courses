@@ -1,9 +1,8 @@
 # Udacity 
 
-## Summary
-- **Total Courses:** 34
-- **Free Audit Access:** Yes
-- **Last Updated:** TBD
+## Resumen
+- **Total cursos:** 34
+- **Gratuitos**: 100% (Solo contenido)
 
 ---
 
@@ -45,3 +44,14 @@
 | Responsible AI: Applying AI Principles with Google Cloud | AI Fundamentals | Intermediate | 2 weeks | Paid | [Link](https://www.udacity.com/course/responsible-AI-applying-AI-principles-with-google-cloud--cd13516) |
 | Intro to Deep Learning with PyTorch | Deep Learning | Intermediate | 3 months | Paid | [Link](https://www.udacity.com/course/deep-learning-pytorch--ud188) |
 | AWS DeepRacer Course | Machine Learning | Beginner | 1 month | Paid | [Link](https://www.udacity.com/course/aws-deepracer--ud014) |
+
+---
+
+## Stats for nerds
+```json
+{
+  "last_verified": "TBD",
+  "institution_type": "Online educator provider",
+  "languages": "English"
+}
+
