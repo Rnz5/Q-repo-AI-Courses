@@ -2,20 +2,17 @@
 
 ## Resumen
 - **Total cursos**: 3
-- **Machine Learning**: 3 cursos
-- **Deep Learning**: 0 cursos
 - **Gratuitos**: 100%
-- **Actualizado**: TBD
 
 ---
 
-## Dashboard
+## Courses Table
 
-| Curso | Enlace | Nivel | Duración | Certificado |
-|-------|--------|-------|----------|-------------|
-| Machine Learning Crash Course | [Link](https://developers.google.com/machine-learning/crash-course) | Beginner | 15 horas | Gratuito |
-| Introduction to ML Problem Framing | [Link](https://developers.google.com/machine-learning/problem-framing) | Beginner | 1 hora | No |
-| Clustering | [Link](https://developers.google.com/machine-learning/clustering) | Intermediate | 3 horas | No |
+| Course Title | Category | Level | Duration | Certificate | Link |
+|--------------|----------|-------|----------|-------------|------|
+| Machine Learning Crash Course | Machine Learning | Beginner | 15 hours | None | [Link](https://developers.google.com/machine-learning/crash-course) |
+| Introduction to ML Problem Framing | Machine Learning | Beginner | 1 hour | None | [Link](https://developers.google.com/machine-learning/problem-framing) |
+| Clustering | Machine Learning | Intermediate | 3 hours | None | [Link](https://developers.google.com/machine-learning/clustering) |
 
 ---
 
