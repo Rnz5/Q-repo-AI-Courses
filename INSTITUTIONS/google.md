@@ -16,10 +16,10 @@
 
 ---
 
-## Stats for nerds (like me)
+## Stats for nerds
 ```json
 {
   "last_verified": "TBD",
-  "institution_type": "Tech Company",
+  "institution_type": "Technology Corporation",
   "languages": "English"
 }
