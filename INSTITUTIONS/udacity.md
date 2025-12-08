@@ -51,7 +51,7 @@
 ```json
 {
   "last_verified": "TBD",
-  "institution_type": "Online educator provider",
+  "institution_type": "Educational Platform",
   "languages": "English"
 }
 
