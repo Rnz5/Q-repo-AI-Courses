@@ -1,25 +1,33 @@
-# Google Cloud Skills Boost
+# 🎓 Google Cloud Skills Boost
 
-## Resumen
-- **Total cursos**: 3
-- **Gratuitos**: 100%
+## 📊 Summary
+
+Google Cloud Skills Boost (formerly Qwiklabs) provides hands-on labs. The "Generative AI" path is their flagship free offering right now.
+
+- **Requires an account**: Yes
+- **Total courses**: 2
+- **Free courses**: 100% (Selected content)
+- **Certificates**: Free (Badges)
+- **Primary language**: English
 
 ---
 
-## Courses Table
+## 📚 Courses Table
 
 | Course Title | Category | Level | Duration | Certificate | Link |
 |--------------|----------|-------|----------|-------------|------|
-| Introduction to Machine Learning Operations (MLOps) | Tools & Frameworks | Intermediate | 6 hours | Free | [Link](https://www.cloudskillsboost.google/course_templates/536) |
-| Generative AI with Vertex AI | Generative AI | Intermediate | 8 hours | Free | [Link](https://www.cloudskillsboost.google/course_templates/556) |
-| BigQuery ML for Machine Learning | Machine Learning | Intermediate | 6 hours | Free | [Link](https://www.cloudskillsboost.google/course_templates/46) |
+| Introduction to Generative AI | Generative AI | **Beginner** | 0.5 hour | Free | [Link](https://www.cloudskillsboost.google/course_templates/536) |
+| Introduction to Large Language Models | Generative AI | **Beginner** | 0.5 hour | Free | [Link](https://www.cloudskillsboost.google/course_templates/554) |
 
 ---
 
-## Stats for nerds
+## 📈 Stats for nerds
+
 ```json
 {
   "last_verified": "TBD",
-  "institution_type": "Tech Company",
-  "languages": "English"
+  "institution_type": "Tech Company - Cloud Provider",
+  "languages": "English, Spanish, Portuguese, Japanese",
+  "sandbox_environment": true,
+  "requires_account": true
 }

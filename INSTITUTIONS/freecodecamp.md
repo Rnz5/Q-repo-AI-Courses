@@ -1,26 +1,34 @@
-# freeCodeCamp
+# 🎓 freeCodeCamp
 
-## Resumen
-- **Total cursos**: 4
-- **Gratuitos**: 100%
+## 📊 Summary
+
+Massive, project-based curriculums. The links below go directly to the certification page or the specific comprehensive video course.
+
+- **Requires an account**: Yes (for certifications)
+- **Total courses**: 3
+- **Free courses**: 100%
+- **Certificates**: Free (Verifiable Certifications)
+- **Primary language**: English
 
 ---
 
-## Courses Table
+## 📚 Courses Table
 
 | Course Title | Category | Level | Duration | Certificate | Link |
 |--------------|----------|-------|----------|-------------|------|
-| Machine Learning with Python | Machine Learning | Beginner | 300 hours | Free | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) |
-| TensorFlow 2.0 Course | Deep Learning | Intermediate | 40 hours | Free | [Link](https://www.freecodecamp.org/learn/tensorflow/) |
-| PyTorch for Deep Learning | Deep Learning | Intermediate | 50 hours | Free | [Link](https://www.freecodecamp.org/news/pytorch-full-course/) |
-| MLOps Guide | Machine Learning | Intermediate | 10 hours | None | [Link](https://www.freecodecamp.org/news/mlops-machine-learning-ops/) |
+| Machine Learning with Python | Machine Learning | **Expert** | 300 hours | Free | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) |
+| Deep Learning with Python (TensorFlow) | Deep Learning | **Intermediate** | 10 hours | None | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow-crash-course) |
+| PyTorch for Deep Learning | Deep Learning | **Intermediate** | 25 hours | None | [Link](https://www.freecodecamp.org/news/pytorch-full-course/) |
 
 ---
 
-## Stats for nerds
+## 📈 Stats for nerds
+
 ```json
 {
   "last_verified": "TBD",
-  "institution_type": "Educational Platform",
-  "languages": "English"
+  "institution_type": "Non-Profit Educational Platform",
+  "languages": "English",
+  "sandbox_environment": true,
+  "requires_account": true
 }

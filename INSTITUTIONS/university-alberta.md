@@ -1,24 +1,32 @@
-# University of Alberta
+# 🎓 University of Alberta
 
-## Resumen
-- **Total cursos**: 2
-- **Gratuitos**: 100% (auditoría)
+## 📊 Summary
+
+A global leader in Reinforcement Learning (RL) research, offering comprehensive, highly technical courses in RL and specialized ML topics via platforms like Coursera.
+
+- **Requires an account**: Yes
+- **Total courses**: 1 (Specialization)
+- **Free courses**: 100% (Audit track on Coursera)
+- **Certificates**: Paid
+- **Primary language**: English
 
 ---
 
-## Courses Table
+## 📚 Courses Table
 
 | Course Title | Category | Level | Duration | Certificate | Link |
 |--------------|----------|-------|----------|-------------|------|
-| Reinforcement Learning Specialization | Deep Learning | Advanced | 5 months | Paid | [Link](https://www.coursera.org/specializations/reinforcement-learning) |
-| Machine Learning with Graphs | Machine Learning | Advanced | 20 hours | Paid | [Link](https://www.coursera.org/learn/machine-learning-with-graphs) |
+| Reinforcement Learning Specialization | Deep Learning | **Advanced** | 5 months | Paid | [Link](https://www.coursera.org/specializations/reinforcement-learning) |
 
 ---
 
-## Stats for nerds
+## 📈 Stats for nerds
+
 ```json
 {
   "last_verified": "TBD",
   "institution_type": "University",
-  "languages": "English"
+  "languages": "English",
+  "sandbox_environment": false,
+  "requires_account": true
 }

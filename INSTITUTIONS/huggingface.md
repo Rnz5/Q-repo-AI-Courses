@@ -1,25 +1,34 @@
-# Hugging Face
+# 🎓 Hugging Face
 
-## Resumen
-- **Total cursos**: 3
-- **Gratuitos**: 100%
+## 📊 Summary
+
+Hugging Face provides free and comprehensive courses for the tools that drive modern Machine Learning, especially in Natural Language Processing (NLP) and Large Language Models (LLMs).
+
+- **Requires an account**: No
+- **Total courses**: 3
+- **Free courses**: 100%
+- **Certificates**: None
+- **Primary language**: English
 
 ---
 
-## Courses Table
+## 📚 Courses Table
 
 | Course Title | Category | Level | Duration | Certificate | Link |
 |--------------|----------|-------|----------|-------------|------|
-| Natural Language Processing Course | Deep Learning | Beginner | 6 weeks | Free | [Link](https://huggingface.co/learn/nlp-course/chapter1/1) |
-| Reinforcement Learning Course | Deep Learning | Intermediate | 8 weeks | Free | [Link](https://huggingface.co/learn/deep-rl-course/unit0/introduction) |
-| Diffusion Models Course | Generative AI | Advanced | 4 weeks | Free | [Link](https://huggingface.co/learn/diffusion-course/unit1/1) |
+| Natural Language Processing Course | Deep Learning | **Beginner** | 6 weeks | None | [Link](https://huggingface.co/learn/nlp-course/chapter1/1) |
+| Reinforcement Learning Course | Deep Learning | **Intermediate** | 8 weeks | None | [Link](https://huggingface.co/learn/deep-rl-course/unit0/introduction) |
+| Diffusion Models Course | Generative AI | **Advanced** | 4 weeks | None | [Link](https://huggingface.co/learn/diffusion-course/unit1/1) |
 
 ---
 
-## Stats for nerds
+## 📈 Stats for nerds
+
 ```json
 {
   "last_verified": "TBD",
   "institution_type": "AI Research Company",
-  "languages": "English"
+  "languages": "English",
+  "sandbox_environment": true,
+  "requires_account": false
 }
