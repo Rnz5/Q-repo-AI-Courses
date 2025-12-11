@@ -14,7 +14,7 @@ Microsoft Learn offers modular learning paths. The catalog is vast and reorganiz
 
 | Included Categories | URL |
 | :--- | :--- |
-| AI Fundamentals & Ethics, Machine Learning, Generative AI | [Link](https://learn.microsoft.com/en-us/training/browse/?products=azure-bot-service%2Cazure-custom-vision%2Cdocument-intelligence%2Cazure-ai-foundry%2Cazure-ai-foundry-agent-service%2Cazure-ai-foundry-sdk%2Cazure-cognitive-search%2Cai-services%2Cazure-video-indexer%2Cazure-computer-vision%2Cazure-machine-learning&roles=ai-engineer&terms=machine%20learning)  |
+| AI Fundamentals & Ethics, Machine Learning, Generative AI | [Link](https://learn.microsoft.com/en-us/training/browse/?products=azure-bot-service%2Cazure-custom-vision%2Cdocument-intelligence%2Cazure-ai-foundry%2Cazure-ai-foundry-agent-service%2Cazure-ai-foundry-sdk%2Cazure-cognitive-search%2Cai-services%2Cazure-video-indexer%2Cazure-computer-vision%2Cazure-machine-learning&roles=ai-engineer)  |
 
 ---
 
@@ -36,4 +36,5 @@ Use the "Filter" sidebar on the portal to select "Product: Azure AI", or search 
   "sandbox_environment": true,
   "requires_account": true,
   "link_access": "Portal Search Required"
+
 }
