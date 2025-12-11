@@ -10,7 +10,7 @@ This project serves as a structured, centralized knowledge base for **AI educati
 
 ## 🎓 Featured Course Picks by Level
 
-Based on community feedback and completion rates, here are our recommended starting points. If these don't suit your needs, explore the [Dynamic Institutions](#-dynamic-institutions) to search through vast, updated catalogs.
+Based on community feedback and completion rates, here are our recommended starting points. If these don't suit your needs, explore the [Dynamic Institutions](/institutions/dynamic) to search through vast, updated catalogs.
 
 | Level | Course | Institution | Direct Link |
 | :--- | :--- | :--- | :--- |
