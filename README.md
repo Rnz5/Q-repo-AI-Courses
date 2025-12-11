@@ -59,3 +59,12 @@ This directory organizes all courses (from both stable and dynamic institutions)
 - A table of **stable courses** specifically on that topic.
 - References to **dynamic institutions** that offer courses in that category.
 - Recommended learning paths and prerequisite guidance.
+
+## ⚠️ Disclaimer
+
+This repository is a **community-curated collection** and is provided for informational purposes only.
+
+*   **Accuracy Not Guaranteed**: While we strive for accuracy, we cannot guarantee that all information, links, or course details are current, correct, or complete. Institutions may update, move, or retire content without notice.
+*   **Third-Party Content**: All courses and linked materials are the property of their respective institutions. This repository does not host any content itself; it only provides references, learning paths and links.
+*   **Dynamic Changes**: Links in the `dynamic` institution portals are especially prone to change as platforms update their catalogs.
+*   **User Verification**: We encourage users to verify course details, such as availability, pricing, and requirements, directly on the official provider's website before enrolling to any course.
