@@ -1,6 +1,6 @@
 # Q-Repo: AI courses Repository
 
-**A community-curated repository of free and high-quality Artificial Intelligence and Machine Learning courses from leading institutions worldwide.**
+**A community-curated repository of free and high quality Artificial Intelligence courses from leading institutions worldwide.**
 
 ---
 
