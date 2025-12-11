@@ -42,7 +42,7 @@ Contains courses with **fixed, reliable links** that rarely change. These are pe
 Contains portals to institutions with **large, frequently updated** course catalogs where maintaining individual links is impractical.
 - Each file is a portal to an institution's main course directory (`udacity.md`)
 - Provides search strategies and keywords to find relevant courses
-- Examples: Udacity, Coursera, edX, NVIDIA DLI
+- Examples: Udacity, Microsoft Learn, Deeplearning.ai
 
 ### 2.  `/categories` – Courses by Topic
 This directory organizes all courses (from both stable and dynamic institutions) by subject matter. Each file aggregates links for a specific field of study.
