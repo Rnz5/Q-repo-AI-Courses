@@ -49,7 +49,7 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 | **Intel** | AI Hardware Fundamentals & Edge AI | `"AI Fundamentals"`, `"Edge AI"`, `"AI Hardware"` | [🔗 Portal](/institutions/dynamic/intel.md) |
 | **Oracle** | Enterprise AI & Cloud AI Services | `"AI Basics"`, `"Enterprise AI"`, `"AI Services"` | [🔗 Portal](/institutions/dynamic/oracle.md) |
 | **Cisco Networking Academy** | AI Fundamentals for IT Professionals | `"AI Fundamentals"`, `"Modern AI"`, `"AI in Networking"` | [🔗 Portal](/institutions/dynamic/cisco-netacad.md) |
-| **Google Cloud Skills Boost** | Cloud AI & Responsible AI Practices | `"Responsible AI"`, `"AI Fundamentals"`, `"Cloud AI"` | [🔗 Portal](/institutions/dynamic/)google-cloud-skills.md |
+| **Google Cloud Skills Boost** | Cloud AI & Responsible AI Practices | `"Responsible AI"`, `"AI Fundamentals"`, `"Cloud AI"` | [🔗 Portal](/institutions/dynamic/google-cloud-skills.md) |
 | **NVIDIA** | AI Business & Responsible AI Practices | `"Responsible AI"`, `"AI Fundamentals"`, `"Cloud AI"` | [🔗 Portal](/institutions/dynamic/nvidia.md) |
 | **Udacity** | AI Ethics, Artificial Intelligence | `"AI for Everyone"`, `"Responsible AI"`, `"Ethical AI"` | [🔗 Portal](/institutions/dynamic/udacity.md) |
 | **Coursera** | Responsible AI, Algorithmic Fairness, AI Governance | `"AI Ethics", "Responsible AI", "Trustworthy AI"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
@@ -67,4 +67,5 @@ Start with broad introductory courses that require no technical background.
 Explore ethical frameworks and business applications of AI.
 
 ### Specialization
+
 Choose between technical fundamentals or policy/ethics tracks.
