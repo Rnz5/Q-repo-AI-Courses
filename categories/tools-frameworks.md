@@ -43,7 +43,9 @@ Practical courses on AI/ML development tools, deployment platforms, and framewor
 | **Oracle** | Data Science SDK, ML Pipeline | `"OCI ML Tools"`, `"Oracle ML Framework"` | [🔗 Portal](/institutions/dynamic/oracle.md) |
 | **Salesforce** | Einstein Platform, ML Tools | `"Salesforce ML Tools"`, `"Einstein Framework"` | [🔗 Portal](/institutions/dynamic/salesforce.md) |
 | **Udacity** | PyTorch, TensorFlow, MLOps, SageMaker | `"ML Deployment"`, `"Model Serving"`, `"Cloud ML Platform"` | [🔗 Portal](/institutions/dynamic/udacity.md) |
-
+| **Coursera** | MLOps, Model Deployment, AWS SageMaker, MLflow | `"MLOps", "Model Deployment", "Machine Learning Engineering"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
+| **edX** | Cloud AI, Software Tools, AI Development | `"AI Tools", "AI Software", "Cloud AI"` | [🔗 Portal](/institutions/dynamic/edx.md) |
+| **CodeSignal** | Development Environments, Testing | `"Coding Tools", "Development Practice", "Code Testing"` | [🔗 Portal](/institutions/dynamic/codesignal.md) |
 ---
 
 ## 🧭 Tool Selection Guide

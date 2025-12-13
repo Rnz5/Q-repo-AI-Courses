@@ -46,7 +46,9 @@ Courses covering classical ML algorithms, statistical learning, predictive model
 | **NVIDIA** | GPU-Accelerated ML (RAPIDS), CUDA-Accelerated Libraries | `"RAPIDS"`, `"CUDA ML"`, `"GPU ML"`, `"Accelerated ML"` | [🔗 Portal](/institutions/dynamic/nvidia.md) |
 | **Oracle** | OCI Data Science, ML Services, Autonomous Database with ML | `"OCI Data Science"`, `"Oracle ML"`, `"Autonomous Database ML"` | [🔗 Portal](/institutions/dynamic/oracle.md) |
 | **Udacity** | Supervised Learning, Unsupervised Learning | `"Machine Learning Engineer"`, `"Classification Regression"`, `"Clustering Algorithms"` | [🔗 Portal](/institutions/dynamic/udacity.md) |
-
+| **Coursera** | Supervised Learning, Data Science, Statistical Learning | `"Machine Learning", "Applied Data Science", "Supervised Learning"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
+| **edX** | Predictive Analytics, Data Mining, Python for ML | `"Machine Learning", "Predictive Analytics", "Data Mining"` | [🔗 Portal](/institutions/dynamic/edx.md) |
+| **CodeSignal** | Data Structures, Problem Solving | `"Machine Learning Algorithms", "Data Structures", "Problem Solving"` | [🔗 Portal](/institutions/dynamic/codesignal.md) |
 ---
 
 ## 🧭 Learning Pathway

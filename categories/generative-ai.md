@@ -38,7 +38,9 @@ Courses on creative AI systems, content generation, prompt engineering, and LLM 
 | **NVIDIA** | NVIDIA AI Foundations, NeMo, Picasso | `"NeMo"`, `"Picasso"`, `"AI Foundations"`, `"Generative AI"` | [🔗 Portal](/institutions/dynamic/nvidia.md) |
 | **Oracle** | OCI Generative AI, Cohere partnership | `"OCI Generative AI"`, `"Cohere"`, `"Generative AI Service"` | [🔗 Portal](/institutions/dynamic/oracle.md) |
 | **Udacity** | ChatGPT, Diffusion Models, Transformers | `"Generative AI Applications"`, `"Stable Diffusion"`, `"LLM Fine-tuning"` | [🔗 Portal](/institutions/dynamic/udacity.md) |
-
+| **Coursera** | Large Language Models, Transformers, Prompt Engineering | `"Generative AI", "LLM", "GPT"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
+| **edX** | Diffusion Models, ChatGPT, AI Generation | `"Generative AI", "Large Language Models", "AI Generation"` | [🔗 Portal](/institutions/dynamic/edx.md) |
+| **CodeSignal** | Code Generation, Scripting for AI | `"AI Scripting", "Automation Code", "Generative Coding"` | [🔗 Portal](/institutions/dynamic/codesignal.md) |
 ---
 
 ## 🧭 Learning Pathway
