@@ -24,6 +24,9 @@ Courses with fixed content, direct links, and defined structure.
 | Cybrary | AI Fundamentals | **Beginner** | 8 hours | Paid | [Link](https://app.cybrary.it/browse/paths/skill-paths/ai-fundamentals) |
 | fast.ai | Practical Data Ethics | **Beginner** | 1 month | None | [Link](https://ethics.fast.ai/) |
 | Kaggle | Intro to AI Ethics | **Beginner** | 4 hours | Free | [Link](https://www.kaggle.com/learn/intro-to-ai-ethics) |
+| HP | AI for Beginners | **Beginner** | 1 hour | Free | [Link](https://www.life-global.org/course/391-ai-for-beginners) |
+| HP | AI for Business Professionals | **Beginner** | 1 hour | Free | [Link](https://www.life-global.org/course/423-ai-for-business-professionals) |
+| HP | Critical Thinking in the AI Era | **Beginner** | 1 hour | Free | [Link](https://www.life-global.org/course/439-critical-thinking-in-the-ai-era) |
 | The Linux Foundation | Ethical Principles for Conversational AI (LFS118) | **Intermediate** | 12 hours | Paid | [Link](https://training.linuxfoundation.org/training/ethical-principles-in-conversational-ai-lfs118/) |
 | MIT OpenCourseWare | MIT 6.034: Artificial Intelligence | **Intermediate** | 4 months | None | [Link](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) |
 | Saylor Academy | CS205: Building with Artificial Intelligence | **Beginner** | 48 hours | Free | [Link](https://learn.saylor.org/course/view.php?id=777) |
@@ -49,7 +52,7 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 | **Intel** | AI Hardware Fundamentals & Edge AI | `"AI Fundamentals"`, `"Edge AI"`, `"AI Hardware"` | [🔗 Portal](/institutions/dynamic/intel.md) |
 | **Oracle** | Enterprise AI & Cloud AI Services | `"AI Basics"`, `"Enterprise AI"`, `"AI Services"` | [🔗 Portal](/institutions/dynamic/oracle.md) |
 | **Cisco Networking Academy** | AI Fundamentals for IT Professionals | `"AI Fundamentals"`, `"Modern AI"`, `"AI in Networking"` | [🔗 Portal](/institutions/dynamic/cisco-netacad.md) |
-| **Google Cloud Skills Boost** | Cloud AI & Responsible AI Practices | `"Responsible AI"`, `"AI Fundamentals"`, `"Cloud AI"` | [🔗 Portal](/institutions/dynamic/google-cloud-skills.md) |
+| **Google Cloud Skills Boost** | Cloud AI & Responsible AI Practices | `"Responsible AI"`, `"AI Fundamentals"`, `"Cloud AI"` | [🔗 Portal](/institutions/dynamic/)google-cloud-skills.md |
 | **NVIDIA** | AI Business & Responsible AI Practices | `"Responsible AI"`, `"AI Fundamentals"`, `"Cloud AI"` | [🔗 Portal](/institutions/dynamic/nvidia.md) |
 | **Udacity** | AI Ethics, Artificial Intelligence | `"AI for Everyone"`, `"Responsible AI"`, `"Ethical AI"` | [🔗 Portal](/institutions/dynamic/udacity.md) |
 | **Coursera** | Responsible AI, Algorithmic Fairness, AI Governance | `"AI Ethics", "Responsible AI", "Trustworthy AI"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
@@ -67,5 +70,4 @@ Start with broad introductory courses that require no technical background.
 Explore ethical frameworks and business applications of AI.
 
 ### Specialization
-
 Choose between technical fundamentals or policy/ethics tracks.
