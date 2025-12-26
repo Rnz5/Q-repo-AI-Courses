@@ -68,3 +68,8 @@ This repository is a **community-curated collection** and is provided for inform
 *   **Third-Party Content**: All courses and linked materials are the property of their respective institutions. This repository does not host any content itself; it only provides references, learning paths and links.
 *   **Dynamic Changes**: Links in the `dynamic` institution portals are especially prone to change as platforms update their catalogs.
 *   **User Verification**: We encourage users to verify course details, such as availability, pricing, and requirements, directly on the official provider's website before enrolling to any course.
+
+## Changelog
+| Date | Version | Changes | 
+| :--- | :--- | :--- |
+| 12/26/25 | v1.3 | Coursera related courses have been eliminated due to changes in their policy |
