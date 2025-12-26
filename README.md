@@ -21,7 +21,7 @@ Based on community feedback and our own experience, here are our recommended sta
 | **Advanced** | Diffusion Models Course | Hugging Face | [Link](/institutions/stable/huggingface.md) |
 | **Advanced** | Practical Computer Vision with PyTorch | OpenHPI | [Link](/institutions/stable/openhpi.md) |
 | **Expert** | Machine Learning with Python | freeCodeCamp | [Link](/institutions/stable/freecodecamp.md) |
-| **Expert** | Reinforcement Learning Specialization | University of Alberta | [Link](/institutions/stable/university-alberta.md) |
+| **Expert** | CS229: Machine Learning | Standford University | [Link](/institutions/stable/university-standford.md) |
 
 ---
 
