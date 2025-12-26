@@ -31,7 +31,6 @@ Courses with fixed content, direct links, and defined structure.
 | MIT OpenCourseWare | MIT 6.034: Artificial Intelligence | **Intermediate** | 4 months | None | [Link](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) |
 | Saylor Academy | CS205: Building with Artificial Intelligence | **Beginner** | 48 hours | Free | [Link](https://learn.saylor.org/course/view.php?id=777) |
 | Saylor Academy | PRDV430: AI for Business Applications | **Intermediate** | 11 hours | Free | [Link](https://learn.saylor.org/course/view.php?id=1254) |
-| University of Colorado | AI For Medical Diagnosis | **Intermediate** | 10 hours | Paid | [Link](https://www.coursera.org/learn/ai-for-medical-diagnosis) |
 | Harvard University | CS50's Introduction to AI with Python | **Intermediate** | 3 months | Paid | [Link](https://cs50.harvard.edu/ai/2024/) |
 | MinnaLearn (Helsinki University) | Elements of AI | **Beginner** | 30 hours | Free | [Link](https://course.elementsofai.com/) |
 | MinnaLearn (Helsinki University) | Ethics of AI | **Beginner** | 30 hours | Free | [Link](https://ethics-of-ai.mooc.fi/) |
@@ -55,7 +54,6 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 | **Google Cloud Skills Boost** | Cloud AI & Responsible AI Practices | `"Responsible AI"`, `"AI Fundamentals"`, `"Cloud AI"` | [🔗 Portal](/institutions/dynamic/)google-cloud-skills.md |
 | **NVIDIA** | AI Business & Responsible AI Practices | `"Responsible AI"`, `"AI Fundamentals"`, `"Cloud AI"` | [🔗 Portal](/institutions/dynamic/nvidia.md) |
 | **Udacity** | AI Ethics, Artificial Intelligence | `"AI for Everyone"`, `"Responsible AI"`, `"Ethical AI"` | [🔗 Portal](/institutions/dynamic/udacity.md) |
-| **Coursera** | Responsible AI, Algorithmic Fairness, AI Governance | `"AI Ethics", "Responsible AI", "Trustworthy AI"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
 | **edX** | AI Policy, Algorithmic Bias, Ethical Frameworks | `"AI Ethics", "Responsible AI", "AI Governance"` | [🔗 Portal](/institutions/dynamic/edx.md) |
 | **CodeSignal** | Programming Concepts, Algorithmic Thinking | `"AI Programming", "Learn Python", "Coding Fundamentals"` | [🔗 Portal](/institutions/dynamic/codesignal.md) |
 

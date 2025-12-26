@@ -31,8 +31,6 @@ Advanced courses on neural architectures, representation learning, and modern AI
 | OpenHPI | Selection and Implementation of AI Models: Speech2Summary | **Intermediate** | 4 weeks | Free | [Link](https://open.hpi.de/courses/speechtosummary-kisz2023) |
 | OpenHPI | Practical Computer Vision with PyTorch | **Advanced** | 4 weeks | Free | [Link](https://open.hpi.de/courses/computervision2025) |
 | OpenHPI | Efficient AI for Weather Forecasting | **Intermediate** | 4 weeks | Free | [Link](https://open.hpi.de/courses/weatherpredictions2025) |
-| University of Alberta | Reinforcement Learning Specialization | **Expert** | 5 months | Paid | [Link](https://www.coursera.org/specializations/reinforcement-learning) |
-| University of Toronto | Self-Driving Cars Specialization | **Expert** | 6 months | Paid | [Link](https://www.coursera.org/specializations/self-driving-cars) |
  
 
 ---
@@ -49,7 +47,6 @@ Institutions with frequently updated catalogs. Access the portal and use recomme
 | **NVIDIA** | GPU-Accelerated Deep Learning & CUDA | `"Deep Learning"`, `"CUDA"`, `"GPU Acceleration"`, `"Jetson"` | [🔗 Portal](/institutions/dynamic/nvidia.md) |
 | **Oracle** | Enterprise Deep Learning & Cloud AI | `"Deep Learning"`, `"Neural Networks"`, `"Cloud AI"`, `"Oracle ML"` | [🔗 Portal](/institutions/dynamic/oracle.md) |
 | **Udacity** | Neural Networks, Computer Vision, NLP | `"Deep Learning Foundations"`, `"Convolutional Networks"`, `"Natural Language Processing"` | [🔗 Portal](/institutions/dynamic/udacity.md) |
-| **Coursera** | Neural Networks, TensorFlow, PyTorch, Computer Vision | `"Deep Learning", "Neural Networks", "Convolutional Networks"` | [🔗 Portal](/institutions/dynamic/coursera.md) |
 | **edX** | Deep Neural Networks, Keras, Advanced ML | `"Deep Learning", "Deep Neural Networks", "Advanced Machine Learning"` | [🔗 Portal](/institutions/dynamic/edx.md) |
 | **CodeSignal** | Algorithm Implementation, Code Optimization | `"Deep Learning Code", "Neural Net Coding", "Algorithm Practice"` | [🔗 Portal](/institutions/dynamic/codesignal.md) |
 
